@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://waltzforash.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Oritorium # site's title
+description: "for dev" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
